@@ -43,11 +43,7 @@ texto.
 
 -   As músicas são carregadas de musicas.txt, contendo:
 
-        Nome,Artista,Duração,Gênero
-
--   Exemplo:
-
-        Blinding Lights,The Weeknd,3:20,Pop
+        Nome, Artista, Duração, Gênero
 
 💖 Curtidas e Descurtidas
 
@@ -187,24 +183,8 @@ O sistema é dividido em funções independentes para modularidade:
 
 ------------------------------------------------------------------------
 
-📜 Licença
-
-Este projeto está licenciado sob a MIT License — veja o arquivo LICENSE
-para mais detalhes.
-
-------------------------------------------------------------------------
 
 👨‍💻 Autor
 
 Desenvolvido por Mateus Monteiro
 📧 mateusinaciomonteiro519@gmail.com
-🌐 GitHub — MateusMonteiro11
-
-------------------------------------------------------------------------
-
-⭐ Possiveis Implementações Futuras
-
--   Implementar interface gráfica (Tkinter ou PyQt).
--   Adicionar suporte a banco de dados SQLite.
--   Exportar playlists para .m3u ou .json.
--   Sistema de busca aprimorada com filtros por gênero ou artista.
